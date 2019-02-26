@@ -1,0 +1,9 @@
+F:\插件\HideApp\HideApp\HideApp\bin\Debug\HideApp.exe
+F:\插件\HideApp\HideApp\HideApp\bin\Debug\HideApp.pdb
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.csprojResolveAssemblyReference.cache
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.Form1.resources
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.Properties.Resources.resources
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.csproj.GenerateResource.Cache
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.exe
+F:\插件\HideApp\HideApp\HideApp\obj\Debug\HideApp.pdb
+F:\插件\HideApp\HideApp\HideApp\bin\Debug\HideApp.exe.config
